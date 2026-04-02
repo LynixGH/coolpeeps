@@ -5,4 +5,5 @@ Jannatul
 Fork this repo and make a pull request
 to add your name to the list somewhere.
 
+Nathan Hingee yay :3
 Joshua Usi
